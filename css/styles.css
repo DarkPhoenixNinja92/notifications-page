@@ -1,0 +1,12 @@
+.notification-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.notification-num {
+    background-color: hsl(219, 85%, 26%);
+    color: hsl(0, 0%, 100%);
+    padding: 0.3em 0.5em;
+    border-radius: 5px;
+}
